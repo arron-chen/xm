@@ -1,0 +1,1120 @@
+[ 2017-02-18T10:47:00+08:00 ] 127.0.0.1 /xm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016704s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: art_data E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Undefined index: art_data1 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Undefined index: art_data2 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Undefined index: art_data3 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Undefined index: art_data4 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.154822s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.154992s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.018610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018686s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000856s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000916s ]
+
+[ 2017-02-18T10:47:03+08:00 ] 127.0.0.1 /xm/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: art_data E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Undefined index: art_data1 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Undefined index: art_data2 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Undefined index: art_data3 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Undefined index: art_data4 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009031s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009077s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000221s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-02-18T10:47:03+08:00 ] 127.0.0.1 /xm/index.php/undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+ERR: 无法加载控制器:Undefined
+
+[ 2017-02-18T11:06:19+08:00 ] 127.0.0.1 /xm/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000799s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: art_data E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Undefined index: art_data1 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Undefined index: art_data2 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Undefined index: art_data3 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Undefined index: art_data4 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014890s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014942s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000565s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000754s ]
+
+[ 2017-02-18T11:06:19+08:00 ] 127.0.0.1 /xm/index.php/undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+ERR: 无法加载控制器:Undefined
+
+[ 2017-02-18T11:06:41+08:00 ] 127.0.0.1 /xm/index.php/Index/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001284s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:07:01+08:00 ] 127.0.0.1 /xm/index.php/Home/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001202s ]
+ERR: 无法加载控制器:Article
+
+[ 2017-02-18T11:07:10+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001219s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:07:18+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:07:43+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:07:43+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001394s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:07:43+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:07:44+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:07:44+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002081s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:07:44+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:07:44+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:07:44+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:07:44+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:07:45+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001369s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:07:45+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:08:32+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:08:35+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:08:57+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:08:57+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:08:57+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:08:57+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001015s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:09:04+08:00 ] 127.0.0.1 /xm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001046s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: art_data E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Undefined index: art_data1 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Undefined index: art_data2 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Undefined index: art_data3 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Undefined index: art_data4 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014844s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014920s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000742s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2017-02-18T11:09:10+08:00 ] 127.0.0.1 /xm/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: art_data E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Undefined index: art_data1 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Undefined index: art_data2 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Undefined index: art_data3 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Undefined index: art_data4 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013780s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013824s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000489s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000683s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000721s ]
+
+[ 2017-02-18T11:09:10+08:00 ] 127.0.0.1 /xm/index.php/undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+ERR: 无法加载控制器:Undefined
+
+[ 2017-02-18T11:09:20+08:00 ] 127.0.0.1 /xm/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: art_data E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Undefined index: art_data1 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Undefined index: art_data2 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Undefined index: art_data3 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Undefined index: art_data4 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014101s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000523s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000648s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000688s ]
+
+[ 2017-02-18T11:09:20+08:00 ] 127.0.0.1 /xm/index.php/Home/index/undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+ERR: 非法操作:undefined
+
+[ 2017-02-18T11:09:27+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+ERR: 模板不存在:./Application/Home/View/index/article_list.html.html
+
+[ 2017-02-18T11:09:36+08:00 ] 127.0.0.1 /xm/index.php/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: art_data E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Undefined index: art_data1 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Undefined index: art_data2 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Undefined index: art_data3 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Undefined index: art_data4 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014443s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014511s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000520s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000711s ]
+
+[ 2017-02-18T11:09:36+08:00 ] 127.0.0.1 /xm/index.php/Home/index/undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001463s ]
+ERR: 非法操作:undefined
+
+[ 2017-02-18T11:09:39+08:00 ] 127.0.0.1 /xm/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: art_data E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Undefined index: art_data1 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Undefined index: art_data2 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Undefined index: art_data3 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Undefined index: art_data4 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012124s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001395s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001195s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001266s ]
+
+[ 2017-02-18T11:09:39+08:00 ] 127.0.0.1 /xm/index.php/Home/index/undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+ERR: 非法操作:undefined
+
+[ 2017-02-18T11:10:06+08:00 ] 127.0.0.1 /xm/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001146s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: art_data E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Undefined index: art_data1 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Undefined index: art_data2 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Undefined index: art_data3 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Undefined index: art_data4 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019410s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019487s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000860s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000179s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001182s ]
+
+[ 2017-02-18T11:10:06+08:00 ] 127.0.0.1 /xm/index.php/Home/index/undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+ERR: 非法操作:undefined
+
+[ 2017-02-18T11:10:11+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ./Application/Runtime/Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php E:\PHPServer\www\xm\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(./Application/Runtime/Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php): No such file or directory E:\PHPServer\www\xm\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+NOTIC: [8] Undefined index: pages E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 298 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 298 行.
+NOTIC: [8] Undefined index: page E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 299 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 299 行.
+NOTIC: [8] Undefined index: prepage E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 303 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 303 行.
+NOTIC: [8] Undefined index: page_num E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 308 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 308 行.
+NOTIC: [8] Undefined index: nextpage E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 317 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 317 行.
+NOTIC: [8] Undefined index: pages E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 320 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 320 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.213738s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.213783s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000467s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-02-18T11:16:51+08:00 ] 127.0.0.1 /xm/index.php/Home/index/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+NOTIC: [8] Undefined index: cid E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: r E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: conn E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_query() expects parameter 1 to be mysqli, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 73 行.
+NOTIC: [2] mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: art_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: cate_data E:\PHPServer\www\xm\Application\Home\Controller\IndexController.class.php 第 92 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pages E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 298 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 298 行.
+NOTIC: [8] Undefined index: page E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 299 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 299 行.
+NOTIC: [8] Undefined index: prepage E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 303 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 303 行.
+NOTIC: [8] Undefined index: page_num E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 308 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 308 行.
+NOTIC: [8] Undefined index: nextpage E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 317 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 317 行.
+NOTIC: [8] Undefined index: pages E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 320 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\f6993699af0d972eddeb715c1139ec7eed11695b.file.article.html.php 第 320 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009488s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009534s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000331s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-02-18T11:56:31+08:00 ] 127.0.0.1 /xm/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: art_data E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Undefined index: art_data1 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Undefined index: art_data2 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Undefined index: art_data3 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Undefined index: art_data4 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010493s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010536s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000184s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-02-18T11:56:31+08:00 ] 127.0.0.1 /xm/index.php/Home/index/undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+ERR: 非法操作:undefined
+
+[ 2017-02-18T18:04:51+08:00 ] 127.0.0.1 /xm/index.php/Home/index/undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+ERR: 非法操作:undefined
+
+[ 2017-02-18T18:06:04+08:00 ] 127.0.0.1 /xm/index.php/Home/Index/platform
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038111s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000799s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000794s ]
+
+[ 2017-02-18T18:06:10+08:00 ] 127.0.0.1 /xm/index.php/Home/index/undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+ERR: 非法操作:undefined
+
+[ 2017-02-18T18:06:33+08:00 ] 127.0.0.1 /xm/index.php?_ijt=6hdcbruqq1o31kd9ovr21kcm1b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010971s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: art_data E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Undefined index: art_data1 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Undefined index: art_data2 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Undefined index: art_data3 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Undefined index: art_data4 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014198s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014252s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000394s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000163s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000833s ]
+
+[ 2017-02-18T18:06:52+08:00 ] 127.0.0.1 /xm/index.php/Home/index/undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+ERR: 非法操作:undefined
+
+[ 2017-02-18T21:03:21+08:00 ] 127.0.0.1 /xm/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: art_data E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 154 行.
+NOTIC: [8] Undefined index: art_data1 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 194 行.
+NOTIC: [8] Undefined index: art_data2 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 232 行.
+NOTIC: [8] Undefined index: art_data3 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 290 行.
+NOTIC: [8] Undefined index: art_data4 E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+NOTIC: [8] Trying to get property of non-object E:\PHPServer\www\xm\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 325 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010888s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010932s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000277s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-02-18T21:03:21+08:00 ] 127.0.0.1 /xm/index.php/undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+ERR: 无法加载控制器:Undefined
+

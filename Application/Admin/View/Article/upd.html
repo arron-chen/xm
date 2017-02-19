@@ -1,0 +1,111 @@
+<!DOCTYPE html   >
+<html>
+<head>
+    <title>修改文章</title>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+    <link href="__PUBLIC__/Admin/css/mine.css" type="text/css" rel="stylesheet">
+    {literal}
+    <style>
+        * {
+            margin: 0 auto;
+            padding: 0px;
+        }
+
+        .whole {
+            width: 97%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+
+        #maintable h3 {
+            color: #fff;
+            margin-left: 10%;
+        }
+
+
+
+        .mulu {
+            background-color: #E8F2FC;
+        }
+
+        .mulu td {
+            line-height: 20px;
+        }
+
+        .td1 {
+            width: 50%;
+        }
+
+        .neirong {
+            margin-top: 10px;
+            width: 99%;
+            border: solid 1px #E8F2FC;
+            position:relative;
+        }
+        .input{height:80px;position:relative;;bottom:8%;}
+    </style>
+    {/literal}
+
+</head>
+
+<body>
+
+<div class="div_head">
+            <span>
+                <span style="float:left">当前位置是：文章管理-》修改文章</span>
+                <span style="float:right;margin-right: 8px;font-weight: bold">
+                    <a style="text-decoration: none" href="__MODULE__/Article/showlist">【返回】</a>
+                </span>
+            </span>
+</div>
+<div></div>
+
+
+<div class="whole"  style="font-size: 13px;margin: 10px 5px">
+
+
+    <form action="{$smarty.const.__SELF__}" method="post" enctype="multipart/form-data">
+        <input type="hidden" name="id"  value="{$id}" />
+        <input type="hidden" name="posttime" value="{$posttime}" />
+        <table>
+            <tr class="mulu">
+                <td class="td1"><a>文章标题:</a></td>
+                <td><input type="text" name="title" id="title" value="{$info.title}" /></td>
+                <td class="td1"><a>所属栏目：</a></td>
+                <td>
+                    <select name="cid">
+                        <option value="0">请选择</option>
+                        {html_options options=$cinfo  selected="$cid"}
+                    </select>
+                </td>
+
+            </tr>
+            <tr class="mulu">
+                <td class="td1">作者:</td>
+                <td><input type="text" name="author" id="author" value="{$info.author}" /></td>
+                <td class="td1">来源:</td>
+                <td><input type="text" name="resource" id="resource" value="{$info.resource}" /></td>
+            </tr>
+
+        </table>
+
+
+        <div class="neirong">
+            <script name="body" id="body" type="text/plain">{$info.body}</script>
+            <script type="text/javascript" src="__PUBLIC__/ueditor/ueditor.config.js"></script>
+            <script type="text/javascript" src="__PUBLIC__/ueditor/ueditor.all.js"></script>
+            <script type="text/javascript">
+                var ue= UE.getEditor('body');
+            </script>
+        </div>
+        <div class="input"><input type="submit" name="submit" value="提交" /> <input
+                type="reset" name="reset" value="取消" /></div>
+
+
+    </form>
+
+
+</div>
+</body>
+</html>
